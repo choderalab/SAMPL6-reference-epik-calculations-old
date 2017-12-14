@@ -1,0 +1,5 @@
+s_m_title,s_m_source_file,i_m_source_file_index,i_lp_mmshare_version,i_f3d_flags,s_lp_Force_Field,r_lp_Energy,b_lp_Chiralities_Consistent,s_lp_Variant,r_lp_tautomer_probability,r_epik_Ionization_Penalty,r_epik_Ionization_Penalty_Charging,r_epik_Ionization_Penalty_Neutral,r_epik_State_Penalty,r_epik_Charging_Adjusted_Penalty,i_epik_Tot_Q,i_epik_Tot_abs_Q,i_m_ct_format,s_epik_Chemistry_Notes
+SM12,SM12.smi,1,38013,0,OPLS_2005,13.9308607138,1,SM12-1,0.993507999999,0.0083,0.0083,0.0,0.0727,0.0810620020251,1,1,2,
+SM12,SM12.smi,1,38013,0,OPLS_2005,13.9308607138,1,SM12-1,0.00649199999999,0.0284,0.0283,0.0001,1.3126,1.34093062489,1,1,2,
+SM12,SM12.smi,1,38013,0,OPLS_2005,13.9308607138,1,SM12-1,0.999978000242,4.347,0.0,4.347,2.9924,2.99241862749,0,0,2,
+SM12,SM12.smi,1,38013,0,OPLS_2005,13.9308607138,1,SM12-1,,5.3979,5.3974,0.0006,6.3288,11.726203909,2,2,2,"This compound has an imine and may undergo hydrolysis."
