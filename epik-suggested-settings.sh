@@ -13,7 +13,7 @@ function run_epik_at_pH {
     mkdir -p ${outdir}/${file_prefix}
     cp input/${file_prefix}.smi ${outdir}/${file_prefix}/.
     pushd ${outdir}/${file_prefix}
-    $SCHRODINGER/ligprep -ismi ${file_prefix}.smi -omae ${file_prefix}.${ph}.mae -WAIT -i 1 # neutralize and store as mae
+    $SCHRODINGER/ligprep -ismi ${file_prefix}.smi -omae ${file_prefix}.${ph}.mae -WAIT -i 1 -s 1 # neutralize and store as mae
     $SCHRODINGER/epik -imae ${file_prefix}.${ph}.mae -omae ${file_prefix}.epik.${ph}.mae -ph ${ph} -WAIT -NO_JOBCONTROL
     $SCHRODINGER/utilities/structconvert -imae ${file_prefix}.epik.${ph}.mae -osmi ${file_prefix}.epik.${ph}.smi
     popd 
