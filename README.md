@@ -39,8 +39,8 @@ Results were processed with the following notebook:
 
 Resulting file:
 
-#### Format as specified by SAMPL
+#### Microstate population (Type II) format as specified by SAMPL
 * [typeII-epik_microscopic_populations-1.csv](typeII-epik_microscopic_populations-1.csv)
 
-#### Raw csv file
+#### Raw populations in csv file
 * [typeii-raw-microscopic.csv](typeii-raw-microscopic.csv)
