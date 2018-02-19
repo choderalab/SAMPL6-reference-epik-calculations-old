@@ -11,7 +11,7 @@ These were generated with [epik-sequential.sh](epik-sequential.sh) . Results wer
 
 Resulting files of the analysis:
 
-#### Format as specified by SAMPL
+#### Macroscopic pKa (type III) format as specified by SAMPL
 * [typeIII-epik_sequential-1.csv](typeIII-epik_sequential-1.csv)
 
 #### Raw csv file
