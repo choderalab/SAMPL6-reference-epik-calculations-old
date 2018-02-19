@@ -1,7 +1,0 @@
-s_m_title,s_m_source_file,i_m_source_file_index,i_lp_mmshare_version,i_f3d_flags,s_lp_Force_Field,r_lp_Energy,b_lp_Chiralities_Consistent,s_lp_Variant,r_lp_tautomer_probability,r_epik_Ionization_Penalty,r_epik_Ionization_Penalty_Charging,r_epik_Ionization_Penalty_Neutral,r_epik_State_Penalty,r_epik_Charging_Adjusted_Penalty,i_epik_Tot_Q,i_epik_Tot_abs_Q,i_m_ct_format,s_epik_Chemistry_Notes
-SM18,SM18.smi,1,38013,0,OPLS_2005,17.4490160393,1,SM18-1,5.79965010902e-05,13.4474,4.5386,8.9088,0.0138,4.55239848429,0,0,2,
-SM18,SM18.smi,1,38013,0,OPLS_2005,17.4490160393,1,SM18-1,0.999000488399,2.9234,0.0,2.9234,2.2362,2.23619224282,2,2,2,"This compound has an imine and may undergo hydrolysis."
-SM18,SM18.smi,1,38013,0,OPLS_2005,17.4490160393,1,SM18-1,,0.6765,0.0296,0.6469,6.0777,6.10729851753,2,2,2,
-SM18,SM18.smi,1,38013,0,OPLS_2005,13.8546902704,1,SM18-2,5.79965010902e-05,13.4474,4.5386,8.9088,0.0138,4.55239848429,0,0,2,
-SM18,SM18.smi,1,38013,0,OPLS_2005,13.8546902704,1,SM18-2,0.999000488399,2.9234,0.0,2.9234,2.2362,2.23619224282,2,2,2,"This compound has an imine and may undergo hydrolysis."
-SM18,SM18.smi,1,38013,0,OPLS_2005,13.8546902704,1,SM18-2,,0.6765,0.0296,0.6469,6.0777,6.10729851753,2,2,2,

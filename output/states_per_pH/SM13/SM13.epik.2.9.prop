@@ -1,5 +1,0 @@
-s_m_title,s_m_source_file,i_m_source_file_index,i_lp_mmshare_version,i_f3d_flags,s_lp_Force_Field,r_lp_Energy,b_lp_Chiralities_Consistent,s_lp_Variant,r_lp_tautomer_probability,r_epik_Ionization_Penalty,r_epik_Ionization_Penalty_Charging,r_epik_Ionization_Penalty_Neutral,r_epik_State_Penalty,r_epik_Charging_Adjusted_Penalty,i_epik_Tot_Q,i_epik_Tot_abs_Q,i_m_ct_format
-SM13,SM13.smi,1,38013,0,OPLS_2005,20.494550937,1,SM13-1,0.993507999999,0.0249,0.0249,0.0,0.0042,0.0290790838201,1,1,2
-SM13,SM13.smi,1,38013,0,OPLS_2005,20.494550937,1,SM13-1,0.00649199999999,0.0506,0.0506,0.0,3.1713,3.22186086092,1,1,2
-SM13,SM13.smi,1,38013,0,OPLS_2005,20.494550937,1,SM13-1,0.999978000242,3.373,0.0,3.373,3.622,3.62196606074,0,0,2
-SM13,SM13.smi,1,38013,0,OPLS_2005,20.494550937,1,SM13-1,,10.109,10.109,0.0,5.9658,16.0748235299,2,2,2
